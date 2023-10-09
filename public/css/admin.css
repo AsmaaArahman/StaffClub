@@ -1,0 +1,64 @@
+body{
+    font-family: 'Almarai'  !important;
+}
+
+img {
+    max-width: 100%;
+} 
+
+.h3{
+    font-family: 'Almarai'  !important;
+}
+
+
+div.content-wrapper, .main-header {
+    margin-left: 0 !important;
+}
+
+
+.modal {
+    margin-top: 50px;
+    direction: rtl;
+}
+
+
+.input-wrapper {
+    /* margin: auto; */
+    margin-bottom: 1rem;
+}
+
+form input {
+    background-color: #f2f2f2 !important;
+    border: none;
+}
+
+
+ .card-body {
+    padding: 40px;
+    
+} 
+
+ .content-wrapper {
+     padding: 30px;
+ }
+ 
+img.brand-image {
+    float:none !important;
+    display:block;
+    margin: auto !important;
+} 
+
+.header-search-form {
+    margin: auto;
+    width: 50%;
+    display: block;
+}  
+
+
+.custom-switch {
+    direction: ltr;
+} 
+
+.brand-text {
+    font-size: smaller;
+} 
